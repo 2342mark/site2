@@ -1,0 +1,166 @@
+
+body {
+   width:100%;
+  
+}
+
+.page-content {
+   width:100%;
+   margin:auto;
+}
+
+.page-header {
+   background: none;
+}
+
+.container {
+   width: 100%;
+   margin:auto;
+   
+}
+.h {
+   margin:0;
+ width: 200px;
+position: relative;
+right: 900px;
+
+}
+
+.f {
+   margin:0;
+ width: 200px;
+position: relative;
+right: 1900px; 
+}
+
+
+.f {
+   position: relative;
+
+}
+
+nav.page-nav {
+   background: none;
+   height: 100px;
+}
+
+.page-nav ul {
+   margin: 0 ;
+   padding:0;
+   list-style-type: none;
+   display: flex;
+   justify-content: space-around;
+   min-height: 60px;
+
+}
+
+.page-nav ul li {
+   display:flex;
+   align-items: stretch;
+   flex:1;
+}
+
+.page-nav ul li a {
+   width:100%;
+   display: flex;
+   align-items: center;
+   text-align: center;
+   text-decoration: none;
+
+}
+
+.page-nav ul li a span {
+   width: 100%;
+   font-size: 1.5em;
+  color:aliceblue;
+  font-family: "Trebuchet MS";
+}
+section.container {
+   background: none;
+}
+
+
+
+
+.new {
+
+   height: auto;
+   width: 100%;
+   background: rgba(139, 0, 0, 0.425);
+   color:whitesmoke;
+   padding-left: 300px;
+  
+   margin:auto;
+   font-family: "Trebuchet MS";
+}
+
+
+
+.page-footer .container3 {
+   display: flex;
+   justify-content: space-between;
+}
+.footer-nav {
+   flex:1;
+}
+
+.footer-info  {
+   flex:4;
+   font-family: "Trebuchet MS";
+   font-size: 17px;
+   color:white;
+}
+
+
+.footer-nav a img {
+width: 50px;
+   height: 50px;
+   flex:1
+}
+
+.container3 {
+   height: 50px;
+   margin-top:10px;
+   width: 100%;
+   display: flex;
+   padding-left: 300px;
+}
+
+.hr {
+   height: 2px;
+   width:100%;
+   margin-bottom:5px;
+   margin-top: 10px;;
+   background: rgb(255, 255, 255);
+}
+   
+  .ggg { 
+       background:  url("i\ \(7\).webp");
+       background-repeat: no-repeat;
+       background-size: cover;
+       background-position: center;
+      
+   }
+
+   
+   .hhh { 
+       background:  url("zemlyanki.jpg");
+       background-repeat: no-repeat;
+       height: 240px;
+       background-position: center;
+      
+   }
+
+   .aaa { 
+       background:  url("i\ \(8\).webp");
+       background-repeat: no-repeat;
+       background-size: cover;
+       background-position: 68%;
+   
+      
+   }
+
+
+.jj:hover {
+   background: rgb(5, 11, 94);
+}
